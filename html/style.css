@@ -1,0 +1,38 @@
+body{
+text-align:center;
+}
+
+#wrap{
+/*width:500px;*/
+margin:0 auto;
+text-align:left;
+/*border:solid 1px #333;*/
+}
+
+header {
+padding:10px;
+border-bottom:solid 1px #333;
+}
+
+nav {
+border-bottom:solid 1px #333;
+}
+
+ul {
+  font-size: 0;
+}
+li {
+  display: inline-block;
+  font-size: 15px;
+  width: 25%;
+} 
+
+article {
+padding:10px;
+}
+
+footer {
+border-top:solid 1px #333;
+text-align:center;
+padding:10px;
+}
