@@ -1,7 +1,7 @@
 # 環境作成 fow Mac
 
-## Homebrewのインストール
-[Homebrew](https://brew.sh/index_ja.html)を使うと開発に必要なモノを手軽にまとめてインストールできる。 
+## Homebrewのインストール
+[Homebrew](https://brew.sh/index_ja.html)を使うと開発に必要なモノを手軽にまとめてインストールできる。 
 Macを使って開発するなら必須！  
 
 ### 手順
@@ -18,10 +18,10 @@ Macを使って開発するなら必須！
 brew install cask git
 ```
 
-caskインストール後、以下のソフトをまとめてインストールする。
+caskインストール後、以下のソフトをまとめてインストールする。
 
 - Visual Studio Code : HPを作成していくエディタ
-- atom ： 万能テキストエディタ、メモ帳代わりに使う
+- atom ： 万能テキストエディタ、メモ帳代わりに使う
 
 4. ターミナルで以下を実行する。
 
@@ -61,5 +61,5 @@ ndenv versions
 nodejsのバージョン確認
 ```
 node -v
-v8.1.0    <-こうなればOK
+v8.1.0    <-こうなればOK
 ```
