@@ -3,7 +3,7 @@
 ## 準備
 
 用意するもの
-- Visual Studio Code
+- Visual Studio Code
 - nodejs
 - Gmail アドレス
 
@@ -14,7 +14,7 @@
 [Visual Studio Code - Microsoft](https://www.microsoft.com/ja-jp/dev/products/code-vs.aspx)
 
 ### nodejs
-Javascriptを画面なしで動作させるもの
+サーバーサイドのJavaScript
 
 ダウンロードURL  
 https://nodejs.org/ja/
@@ -24,8 +24,8 @@ Firebaseに登録する際につかう
 
 ## 環境設定 for Windows
 
-link
+[手順](./環境作成_Windows.md)
 
 ## 環境作成 fow Mac
 
-link
+[手順](./環境作成_Mac.md)
