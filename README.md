@@ -2,7 +2,7 @@
 
 ## 準備
 
-### 用意するもの
+用意するもの
 - Visual Studio Code
 - nodejs
 - Gmail アドレス
@@ -22,3 +22,10 @@ https://nodejs.org/ja/
 ### Gmailアドレス
 Firebaseに登録する際につかう
 
+## 環境設定 for Windows
+
+link
+
+## 環境作成 fow Mac
+
+link
