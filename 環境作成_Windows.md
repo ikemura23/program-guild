@@ -3,7 +3,7 @@
 ソフトを1つずつインストールするのが面倒なので、```chocolatey```を使う。
 https://chocolatey.org
 
-- コマンドプロンプトを起動
+- コマンドプロンプトを*管理者権限で*起動（管理者じゃないとエラーが出る）
 - 以下をコピペ
 
 ```
@@ -15,9 +15,9 @@ choco
 # バージョンが表示される
 ```
 
-chocoからソフトインストールｓ
+chocoからソフトインストール
 ```
-choco install visualstudiocode nodejs git -y
+choco install visualstudiocode nodejs git SourceTree -y
 ```
 
 おまけ
