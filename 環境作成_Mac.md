@@ -15,7 +15,7 @@ Macを使って開発するなら必須！
 3. ターミナルで以下を実行する。
 
 ```
-brew install cask git
+brew install cask git vim
 ```
 
 caskインストール後、以下のソフトをまとめてインストールする。
@@ -27,6 +27,8 @@ caskインストール後、以下のソフトをまとめてインストール�
 
 ```
 brew cask install atom google-japanese-ime visual-studio-code
+# chromeがなかったら
+brew cask install google-chrome
 ```
 
 ---
