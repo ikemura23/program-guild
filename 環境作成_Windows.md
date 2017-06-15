@@ -23,7 +23,7 @@ choco install visualstudiocode nodejs git SourceTree -y
 おまけ
 ```
 パッケージ一覧を確認する
-chocolatey list
+choco list -lo
 
 パッケージ更新
 choco upgrade all -y
